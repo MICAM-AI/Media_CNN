@@ -1,0 +1,4 @@
+사용 데이터 : https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+
+학습에 사용한 사진 데이터 수: 35341
+1=Disgust 데이터는 표정의 명확성이 부족하다고 생각해서 제외.
